@@ -1,28 +1,13 @@
+### Hi my fans<img src='https://wqknowledge.oss-cn-shenzhen.aliyuncs.com/Hi.gif' alt='Hi' width="24"/>
+我是 Druant，996加班狂
 
-
-<!--
-**chenweiquan-red/chenweiquan-red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi <img src='https://wqknowledge.oss-cn-shenzhen.aliyuncs.com/Hi.gif' alt='Hi' width="24"/>
-我是 Druant，996加班狂  🤔 🤔 🤔
-
-## 正在进行💬
+## 正在进行
 - ~~🍉 努力成为财富自由的废物（2024 目标）~~
-    - 找到一份合适的工作
+  - 找到一份合适的工作
 
-## 🔭 build in public（一年0个项目）
-至此，我的2024年目标一都还没有
+## build in public（一年0个项目）
+
+至此，我的2024年目标一个都还没有
 
 ## 💻 Tech Stack:
 
