@@ -6,6 +6,7 @@
   - 找到一份合适的工作
 
 ## build in public（一年0个项目）
+<code><img height="200" src="https://oss-cwq.oss-rg-china-mainland.aliyuncs.com/wqknowledge/wqlogo.png"></code>
 
 至此，我的2024年目标一个都还没有
 
