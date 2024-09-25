@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+!+%F0%9F%98%81%F0%9F%98%81%F0%9F%98%81;+I%27m+China+Durant!+%F0%9F%91%8B;" />
 </h1>
 
-<h3 align="center">一个 热爱编程 的油腻男🌮 </h3>
+<h3 align="center">A greasy man who loves programming 🌮 </h3>
 
 <br/>
 
